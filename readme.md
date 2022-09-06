@@ -3,8 +3,10 @@
 To start the app use Docker. It will start both frontend and backend, including all the relevant dependencies, and the db.
 
 ## Steps for starting your application using docker.
-You can verify docker is ready by running the following commands in your terminal: docker -v and docker-compose -v
-run docker-compose up from the project root directory to load Anythink's backend and frontend.
+
+You can verify docker is ready by running the following commands in your terminal: docker -v and docker-compose -v.
+
+Run docker-compose up from the project root directory to load Anythink's backend and frontend.
 
 Please find more info about each part in the relevant Readme file ([frontend](frontend/readme.md) and [backend](backend/README.md)).
 
