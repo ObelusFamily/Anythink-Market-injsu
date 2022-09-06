@@ -6,7 +6,7 @@
   },
   "private": true,
   "devDependencies": {
-    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-react": "^7.26.1",
     "prettier": "2.4.1",
     "react-test-renderer": "^17.0.2",
@@ -70,5 +70,5 @@
   },
   "resolutions": {
     "autoprefixer": "10.4.5"
-  }  
+  }
 }
